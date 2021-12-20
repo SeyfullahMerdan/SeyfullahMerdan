@@ -21,7 +21,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00aced?style=flat-quare&labelColor=3b5998&logo=twitter&logoColor=white&link=link)](link) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-quare&labelColor=3b5998&logo=facebook&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007bb5?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
 
