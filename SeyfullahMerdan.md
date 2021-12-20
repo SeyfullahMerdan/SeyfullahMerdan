@@ -10,7 +10,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 - 🤔 I’m looking for help with finding place for probation 
 - 💬 Ask me about https://www.linkedin.com/in/seyfullahmerdan/
 - 📫 How to reach me: merdanseyfullah33@gmail.com
-- 😄 Pronouns: He/Male/ Comics and Fun
+- 😄 Pronouns: He/Male
 - ⚡ Fun fact: Bring happiness around me ;)
 
 
@@ -19,8 +19,8 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-C13584?style=flat-quare&labelColor=C13584&logo=facebook&logoColor=blue&link=link)](link) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-C13584?style=flat-quare&labelColor=C13761&logo=facebook&logoColor=blue&link=link)](link) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-quare&labelColor=C13845&logo=instagram&logoColor=white&link=link)](link) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
