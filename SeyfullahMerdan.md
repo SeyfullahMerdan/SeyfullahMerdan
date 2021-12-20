@@ -1,6 +1,6 @@
 ### Hi There, I'm Seyfullah 👋
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) If you want 7/24 i'm here
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/SeyfullahMerdan) If you want 7/24 i'm here
 
 I'm a Husband, Father, Automation Tester and Teacher!!
 
