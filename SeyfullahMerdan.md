@@ -1,7 +1,5 @@
 ### Hello Everyone, I'm Seyfullah 👋
 
-<!--
-**SeyfullahMerdan/SeyfullahMerdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a Husband, Father, Automation Tester and Teacher!!
 
@@ -13,7 +11,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 - 📫 How to reach me: merdanseyfullah33@gmail.com
 - 😄 Pronouns: He/Male/ Comics and Fun
 - ⚡ Fun fact: Bring happiness around me :D 
--->
+-
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
