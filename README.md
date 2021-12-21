@@ -20,7 +20,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/SeyfullahMerdan) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/seyfullahmrdn/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00aced?style=flat-quare&labelColor=3b5998&logo=twitter&logoColor=white&link=link)](https://twitter.com/i/flow/login) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-quare&labelColor=3b5998&logo=facebook&logoColor=white&link=link)](https://www.facebook.com/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-quare&labelColor=3b5998&logo=facebook&logoColor=white&link=link)](https://www.facebook.com/Bedbini/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007bb5?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/seyfullahmerdan/) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.blogger.com/)
 
