@@ -9,7 +9,7 @@ I'm a Husband, Father, Automation Tester and Teacher.
 - 👯 I’m looking to collaborate on some java projects
 - 🤔 I’m looking for help with finding place for probation 
 - 💬 Ask me about anything related to Core Java/OOP Consept/SQL/HTML
-- 📫 How to reach me: With those links u can contact with me
+- 📫 How to reach me: https://seyfullah-merdan.vercel.app/
 - 😄 Pronouns: He/Male
 - ⚡ Fun fact: Bring happiness around me ;)
 
