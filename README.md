@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seyfullahmerdan" alt="seyfullahmerdan" /></a> </p>
 
-- 🌱 I’m currently learning **Cucumbar,API**
+- 🌱 I’m currently learning **APPIUM**
 
-- 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/Selenium-JUnit-TestNG-Cucumbar**
+- 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/Selenium-JUnit-TestNG-Cucumbar-API-Behavior-driven Development (BDD)**
 
 - 📄 Know about my experiences [https://seyfullah-merdan.vercel.app/](https://seyfullah-merdan.vercel.app/)
 
