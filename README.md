@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/Selenium-JUnit-TestNG-Cucumbar-API-Behavior-driven Development (BDD)**
 
-- 📄 Know about my experiences [https://seyfullah-merdan.vercel.app/](https://seyfullah-merdan.vercel.app/)
-
 - ⚡ Fun fact **Bring happiness around me ;)**
 
 <h3 align="left">Connect with me:</h3>
