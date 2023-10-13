@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Seyfullah</h1>
-<h3 align="center">Husband,Father,Former,Test Automation Engineer</h3>
+<h3 align="center">Husband,Father,Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyfullahmerdan&label=Profile%20views&color=0e75b6&style=flat" alt="seyfullahmerdan" /> </p>
 
