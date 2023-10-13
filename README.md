@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Seyfullah</h1>
-<h3 align="center">Husband,Father,Former Teacher and Automation Engineer</h3>
+<h3 align="center">Husband,Father,Former,Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyfullahmerdan&label=Profile%20views&color=0e75b6&style=flat" alt="seyfullahmerdan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seyfullahmerdan" alt="seyfullahmerdan" /></a> </p>
 
-- 🌱 I’m currently learning **APPIUM**
+- 🌱 I’m currently learning **Linux/Powershell**
 
-- 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/Selenium-JUnit-TestNG-Cucumbar-API-Behavior-driven Development (BDD)**
+- 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/CSS/JavaScript/Selenium-JUnit-TestNG-Cucumbar-API-Behavior-driven Development (BDD)**
 
 - ⚡ Fun fact **Bring happiness around me ;)**
 
